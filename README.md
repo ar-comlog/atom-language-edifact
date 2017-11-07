@@ -1,5 +1,5 @@
-# Syntax support for EDIFACT files in Atom
+# Edifact file support
 
-Contributions are welcome and bonus are awarded for pull requests. 
-Please fork and send a pull requests for updates to grammars, 
-snippets or documentation.
+## Funktions
+ - Syntax support for EDIFACT files in Atom
+ - Format EDIFACT files
