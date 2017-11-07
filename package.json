@@ -17,7 +17,6 @@
   "license": "MIT",
   "name": "language-edifact",
   "optionalDependencies": {},
-  "readme": "# Syntax support for EDIFACT files in Atom\n\nContributions are welcome and bonus are awarded for pull requests. Please fork and send a pull requests for updates to grammars, snippets or documentation.\n",
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
