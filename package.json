@@ -5,10 +5,10 @@
     "url": "http://www.comlog.org"
   },
   "bugs": {
-    "url": "https://github.com//atom-language-ini/issues"
+    "url": "https://github.com//atom-language-edifact/issues"
   },
   "dependencies": {},
-  "description": "Syntax support for ini files.",
+  "description": "Syntax support for edi files.",
   "devDependencies": {},
   "engines": {
     "atom": ">0.50.0"
