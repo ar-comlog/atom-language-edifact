@@ -1,6 +1,6 @@
 {
     "fileTypes": [
-        "desktop"
+        "edi"
     ],
     "name": "EDIFACT",
     "patterns": [
